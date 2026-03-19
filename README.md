@@ -1,1 +1,1 @@
-# agentfit-skills
+# memrank-skills
